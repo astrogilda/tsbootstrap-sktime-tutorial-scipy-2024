@@ -1,0 +1,7 @@
+sktime
+tsbootstrap
+skpro
+statsmodels
+seaborn
+pmdarima
+jupyterlab
