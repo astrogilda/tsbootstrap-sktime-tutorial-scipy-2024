@@ -1,4 +1,4 @@
-Welcome to the sktime workshop at scipy 2024
+Welcome to the "Enhancing Predictive Analytics with tsbootstrap and sktime" workshop at scipy 2024
 ============================================
 
 This tutorial is about [sktime] - a unified framework for machine learning with time series. sktime contains algorithms and tools for building, applying, evaluating modular pipelines and composites for a variety of time series learning tasks, including forecasting, classification, regression.
