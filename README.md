@@ -1,4 +1,4 @@
-Welcome to the **Enhancing Predictive Analytics with `tsbootstrap` and `sktime`** workshop at scipy 2024
+Welcome to the *Enhancing Predictive Analytics with `tsbootstrap` and `sktime`* workshop at scipy 2024
 ============================================
 
 This tutorial is designed for data scientists, analysts, and researchers interested in advanced time series analysis and forecasting techniques. We'll explore cutting-edge methods for enhancing uncertainty quantification and prediction accuracy in time series data, using state-of-the-art tools like [tsbootstrap](www.github.com/astrogilda/tsbootstrap) and [sktime](www.github.com/sktime/sktime).
