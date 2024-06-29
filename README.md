@@ -13,7 +13,7 @@ Throughout this 4-hour session, we'll cover:
 By the end of this tutorial, you'll have gained insights into the latest developments in time series analysis and forecasting, and acquired practical skills to apply these advanced methods to your own data-driven projects.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tsbootstrap-sktime-tutorial-scipy-2024/main?filepath=notebooks) [![!discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=chat&color=lightgreen)](https://discord.com/invite/54ACzaFsn7) [![!slack](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=news&color=lightblue)](https://www.linkedin.com/company/scikit-time/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tsbootstrap-sktime-tutorial-scipy-2024/main?filepath=notebooks) [![!discord](https://img.shields.io/static/v1?logo=discord&label=discord&message=chat&color=lightgreen)](https://discord.com/invite/54ACzaFsn7) [![!slack](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=news&color=lightblue)](https://www.linkedin.com/in/sankalp-gilda/)
 
 ## :rocket: How to get started
 
