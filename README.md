@@ -1,6 +1,8 @@
 Welcome to the sktime/tsbootstrap workshop at scipy 2024
 ========================================================
 
+https://drive.google.com/file/d/1zfruA5zy8tbDgo4OR0KyJEF7qPfPi8Si/view?usp=drive_link
+
 This tutorial is designed for data scientists, analysts, and researchers interested in advanced time series analysis and forecasting techniques. We'll explore cutting-edge methods for enhancing uncertainty quantification and prediction accuracy in time series data, using state-of-the-art tools like [tsbootstrap](www.github.com/astrogilda/tsbootstrap) and [sktime](www.github.com/sktime/sktime).
 
 Throughout this 4-hour session, we'll cover:
